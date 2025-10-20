@@ -72,7 +72,7 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para m
 ## Agradecimentos
 - Agradecimentos à equipe da PokeAPI por fornecer os dados dos Pokémon.
 - Suporte técnico e orientação fornecidos pela IA Grok 3, desenvolvida pela xAI, durante a depuração e resolução de problemas.
-- Ao orientador Renan Jonhannsen da DIO.me, pela orientação no processo de criação desse projeto.
+- Ao orientador Renan Johannsen da DIO.me, pela orientação no processo de criação desse projeto.
 ---
 
 ### Notas
